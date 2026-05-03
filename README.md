@@ -18,19 +18,44 @@
 
 I specialize in bridging the gap between rigorous academic theory and real-world product development. Currently, I combine my research in cognitive sciences with building scalable Backend, Data Engineering, and Machine Learning solutions.
 
-### 🛠️ Technical Focus
+### Technical Focus
 
 *   **Artificial Intelligence:** Design, training, and evaluation of deep architectures (CNNs, LSTMs, Transformers) and Generative AI.
 *   **Data Engineering:** Big data processing, distributed systems, and structured/unstructured databases handling.
 *   **Backend Development:** API creation, microservices orchestration, AI model deployment in production, and agile automation.
 
-### 💻 Tech Stack
+### Tech Stack
 
-*   **Languages:** Python, C, C++, TypeScript
-*   **Data & AI:** PyTorch, Pandas, Spark, Hadoop, Elasticsearch
-*   **Infra & Tools:** Docker, Git, Jira (Scrum), Jupyter Notebooks
+#### AI & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
+</p>
 
-### 🚀 Featured Projects
+#### Big Data & Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC15?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+</p>
+
+#### Languages & Development
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+#### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira (Scrum)" />
+</p>
+
+### Projects
 
 1.  **[[WhatsApp AI Agent Repo]](https://github.com/lctr33/cerealwleche)**: AI agent for sales automation orchestrated with Docker and microservices.
 2.  **[[Relative-Museformer Repo]](https://github.com/lctr33/Classy)**: *Relative-Museformer*, implementation of a hybrid Transformer architecture for symbolic music generation.
