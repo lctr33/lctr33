@@ -1,8 +1,22 @@
-# Hi! I'm Anibal Medina Cabrera 👋
+<div align="center">
 
-I'm an AI Researcher and Software Developer based in Mexico. I specialize in bridging the gap between rigorous academic theory and real-world product development. 
+  <img alt="Anibal Medina Cabrera — AI Researcher and Software Developer" width="250" src="logo.png" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=00BFFF&center=true&vCenter=true&repeat=false&width=450&lines=Anibal+Medina+Cabrera" alt="Anibal Medina Cabrera" />
+  </h1>
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+Software+Developer;Bridging+Cognitive+Science+%26+Backend;Building+scalable+AI+solutions;Based+in+Cuernavaca%2C+Mexico" alt="Anibal Medina Cabrera — AI Researcher, Software Developer based in Mexico" />
+</div>
 
-Currently, I combine my research in cognitive sciences with building scalable Backend, Data Engineering, and Machine Learning solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lctr33&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Anibal Medina Cabrera GitHub profile views" />
+  <img src="https://img.shields.io/github/followers/lctr33?label=Followers&style=for-the-badge&color=00FFFF" alt="Anibal Medina Cabrera GitHub followers" />
+  <img src="https://img.shields.io/github/stars/lctr33?label=Total%20Stars&style=for-the-badge&color=00BFFF" alt="Anibal Medina Cabrera total GitHub stars" />
+</p>
+
+---
+
+I specialize in bridging the gap between rigorous academic theory and real-world product development. Currently, I combine my research in cognitive sciences with building scalable Backend, Data Engineering, and Machine Learning solutions.
 
 ### 🛠️ Technical Focus
 
