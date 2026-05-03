@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img alt="Anibal Medina Cabrera — AI Researcher and Software Developer" width="250" src="logo.png" />
+  <img alt="Anibal Medina Cabrera — AI Researcher and Software Developer" width="250" src="Logo.png" />
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=00BFFF&center=true&vCenter=true&repeat=false&width=450&lines=Anibal+Medina+Cabrera" alt="Anibal Medina Cabrera" />
   </h1>
