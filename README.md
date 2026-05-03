@@ -18,18 +18,15 @@ Currently, I combine my research in cognitive sciences with building scalable Ba
 
 ### 🚀 Featured Projects
 
-*(Replace these with the links to your curated public repositories)*
-
-1.  **[WhatsApp AI Agent Repo]**: AI agent for sales automation orchestrated with Docker and microservices.
-2.  **[Relative-Museformer Repo]**: *Relative-Museformer*, implementation of a hybrid Transformer architecture for symbolic music generation.
-3.  **[Neural Networks Repo]**: Evolutionary optimization of neural networks implemented from scratch.
+1.  **[[WhatsApp AI Agent Repo]](https://github.com/lctr33/cerealwleche)**: AI agent for sales automation orchestrated with Docker and microservices.
+2.  **[[Relative-Museformer Repo]](https://github.com/lctr33/Classy)**: *Relative-Museformer*, implementation of a hybrid Transformer architecture for symbolic music generation.
+3.  **[[Recommendation System]](https://github.com/lctr33/Sistema-de-recomendacion)**: System for recommending books from Amazon data using matrix multiplication.
 
 ### 📫 Let's Connect
 
 I am open to remote freelance opportunities, research collaborations, and software development projects.
 
-*   **Email:** [Your professional email]
-*   **LinkedIn:** [Link to your profile]
+*   **Email:** anibalmeca8@gmail.com
 
 <!--
 **lctr33/lctr33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
